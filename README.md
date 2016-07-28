@@ -19,6 +19,5 @@
 #### <img src="http://images2015.cnblogs.com/blog/561794/201607/561794-20160728003234153-806873645.png"/>
 #### 4. 注意：使用安卓自带的浏览器在地址栏中访问 http://charlesproxy.com/getssl 即可下载证书；
 选择WLAN（这里android，一定要选WLAN而不是VPNxxx），确定，完成！
-#### 5. 完成后，我们现在可以使用手机访问网页，然后在电脑上使用charles抓取https请求了；如下图所示：
-#### <img src="http://images2015.cnblogs.com/blog/561794/201607/561794-20160728003300231-1662408586.jpg"/>
+#### 5. 完成后，我们现在可以使用手机访问网页，然后在电脑上使用charles抓取https请求了；
 
